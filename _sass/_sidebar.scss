@@ -25,7 +25,7 @@
   }
 
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     padding-right: 0;
   }
 
@@ -52,7 +52,7 @@
 .sidebar__right {
   margin-bottom: 1em;
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
@@ -60,7 +60,7 @@
     z-index: 10;
   }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     width: $right-sidebar-width;
   }
 }
@@ -76,7 +76,7 @@
   // set width only, for non-square avatars
   height: 36px;
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
@@ -86,7 +86,7 @@
     max-width: 175px;
     border-radius: 50%;
 
-    @include breakpoint($x-large) {
+    @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
     }
