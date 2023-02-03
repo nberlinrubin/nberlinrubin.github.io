@@ -1,7 +1,6 @@
 ---
 title: "As California burns: the psychology of wildfire- and wildfire smoke-related migration intentions"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Examining how past experience with wildfire and wildfire smoke and perceptions of these threats might be related to future climate migration among California residents.'
 date: 2022-08-24
 venue: 'Population and Environment'
