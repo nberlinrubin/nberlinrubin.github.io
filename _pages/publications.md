@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!--- \* denotes equally contributing authors -->
-
 
 **<ins>Under review, submitted, in preparation</ins>**
 
