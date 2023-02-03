@@ -1,4 +1,3 @@
-**<ins>Peer-reviewed</ins>**
 
 **Nina Berlin Rubin** and Gabrielle Wong-Parodi. As California burns: the psychology of wildfire- and wildfire smoke-related migration intentions. *Population and Environment*, 2022 \[[pdf](http://nberlinrubin.github.io/files/paper1.pdf)\]
 
