@@ -1,23 +1,4 @@
 ---
-title: "As California burns: the psychology of wildfire- and wildfire smoke-related
-  migration intentions"
-collection: publications
-date: "2022-08-24"
-output:
-  html_document:
-    df_print: paged
-permalink: "/publication/2022-08-24-PEpaper"
-venue: Population and Environment
-paperurl: http://nberlinrubin.github.io/files/paper1.pdf
-excerpt: Examining how past experience with wildfire and wildfire smoke and perceptions
-  of these threats might be related to future climate migration among California residents.
----
-Examining how past experience with wildfire and wildfire smoke and perceptions of these threats might be related to future climate migration among California residents.
-
-[Download paper here](http://nberlinrubin.github.io/files/paper1.pdf)
-
-
----
 layout: archive
 title: "Publications"
 permalink: /publications/
