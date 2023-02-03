@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-
-**<ins>Peer-reviewed</ins>**
-
 **Nina Berlin Rubin** and Gabrielle Wong-Parodi. As California burns: the psychology of wildfire- and wildfire smoke-related migration intentions. *Population and Environment*, 2022 \[[pdf](http://nberlinrubin.github.io/files/paper1.pdf)\]
 
 Gabrielle Wong-Parodi and **Nina Berlin Rubin**. Exploring how climate change subjective attribution, personal experience with extremes, concern, and subjective knowledge relate to pro-environmental attitudes and behavioral intentions in the United States. *Journal of Environmental Psychology*, 2022 \[[pdf](http://nberlinrubin.github.io/files/paper2.pdf)\]
