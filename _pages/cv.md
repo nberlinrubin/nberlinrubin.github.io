@@ -38,31 +38,27 @@ Francisca N Santana, Courtney Hammond Wagner, **Nina Berlin Rubin**, Laura SP Bl
 **Nina Berlin Rubin**, Leonard EG Mboera, Adriane Lesser, Marie Lynn Miranda, and Randall Kramer. Process Evaluation of a Community-Based Microbial Larviciding Intervention for Malaria Control in Rural Tanzania. *International Journal of Environmental Research and Public Health*, 2020 \[[pdf](http://nberlinrubin.github.io/files/paper4.pdf)\]
 
 ## Conference Presentations
-# 2022
+**2022**
 * Berlin Rubin, N., Garfin, D.R., and Wong-Parodi, G. Place detachment, psychological distress, and climate migration (Oral presentation). Society for Risk Analysis Annual Meeting, Tampa, FL, December 4-8.
 * Berlin Rubin, N., and Wong-Parodi, G. Personal experience and threat appraisal as motivators of wildfire-associated migration intentions (Oral presentation). Natural Hazards Workshop Researchers' Meeting, Boulder, CO, July 14-16.
 
-# 2021
+**2021**
 * Berlin Rubin, N., and Wong-Parodi, G. Risk appraisal and personal experience as motivators of wildfire-associated migration intentions in California (Lightning presentation). American Geophysical Union Fall Meeting, Virtual, December 13-17.
 * Berlin Rubin, N., and Wong-Parodi, G. Risk appraisal and personal experience as motivators of wildfire-associated migration intentions in California (Oral presentation). Society for Risk Analysis Annual Meeting, Virtual, December 5-9.
 
-# 2020
+**2020**
 * Berlin Rubin, N., Garfin, D.R., and Wong-Parodi, G. Examining adaptive migration thresholds in the context of rapid-onset climate hazards (Oral presentation). American Geophysical Union Fall Meeting, Virtual, December 1-17.
 * Berlin Rubin, N., Holman, E.A., Thompson, R.R., Garfin, D.R., Silver, R.C., and Wong-Parodi, G. Severe weather-related deaths, stress, and incidence of cardiovascular ailments in U.S. community-based samples after Hurricanes Harvey, Irma, and Michael (Lightning presentation). American Geophysical Union Fall Meeting, Virtual, December 1-17.
 * Berlin Rubin, N., Holman, E.A., Thompson, R.R., Garfin, D.R., Silver, R.C., and Wong-Parodi, G. Severe weather-related deaths, stress, and incidence of cardiovascular ailments in U.S. community-based samples after Hurricanes Harvey, Irma, and Michael (Oral presentation). Society for Risk Analysis Annual Meeting, Virtual, December 14-17.
 
 ## Invited Talks
-# 2021
+**2021**
 * Integrating social science with natural sciences in Gulf Coast communities and beyond (Panel presentation). State of the Coast Conference, Virtual, June 2-4. 
 *Psychosocial factors associated with wildfire smoke and COVID-19 adaptation intentions and behaviors (Panel presentation). Political Psychology Research Group led by Professor Jon Krosnick, Stanford University, May 10. 
 
-# 2020
+**2020**
 *Integrating Severe weather, stress, and cardiovascular health (Oral presentation). Political Psychology Research Group led by Professor Jon Krosnick, Stanford University, April 7.
 
-## Teaching Experience
-* Stanford University \
-  Teaching Assistant, Decision Science for Environmental Threats (ESS/EARTHSYS 227), upper-level undergraduate and graduate,   3-5 units, Fall 2023 and Fall 2021. 
-  
 ## Awards and Fellowships
 * Stanford University Haas Graduate Public Service Fellowship (2021)
 * Duke University Graduation with Distinction for Outstanding Undergraduate Thesis (2017)
@@ -75,3 +71,7 @@ Francisca N Santana, Courtney Hammond Wagner, **Nina Berlin Rubin**, Laura SP Bl
 * Letters to a Pre-Scientist, Graduate Student Pen Pal (2019-2022)
 * Stanford Exposure to Research and Graduate Education Program, Application Reviewer (2020)
 * Reviewer for: <i>International Journal of Disaster Risk Reduction</i> and <i>Environmental Research: Health</i>
+
+## Teaching Experience
+* Stanford University \
+  Teaching Assistant, Decision Science for Environmental Threats (ESS/EARTHSYS 227), upper-level undergraduate and graduate,   3-5 units, Fall 2023 and Fall 2021. 
