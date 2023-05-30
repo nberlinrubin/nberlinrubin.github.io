@@ -23,7 +23,7 @@ author_profile: true
 **Nina Berlin Rubin** and Gabrielle Wong-Parodi. As California burns: the psychology of wildfire- and wildfire smoke-related migration intentions. *Population and Environment*, 2022 \[[pdf](http://nberlinrubin.github.io/files/paper1.pdf)\]
 
 <p style="margin-left: 25px;">
-In this study, we sought to better understand how *perceptions of* and *experiences with* wildfire and wildfire smoke are associated with future intentions to migrate among California residents. Among those planning to migrate, we found that the perceived severity of the health impacts of wildfire smoke and prior negative outcomes (e.g., losing property to wildfire, having health harmed by wildfire smoke) were positively associated with how much residents said wildfire/smoke impacted their decision to move.
+In this study, we sought to better understand how <i>perceptions of</i> and <i>experiences with</i> wildfire and wildfire smoke are associated with future intentions to migrate among California residents. Among those planning to migrate, we found that the perceived severity of the health impacts of wildfire smoke and prior negative outcomes (e.g., losing property to wildfire, having health harmed by wildfire smoke) were positively associated with how much residents said wildfire/smoke impacted their decision to move.
 </p>
 
 
