@@ -57,7 +57,7 @@ Francisca N Santana, Courtney Hammond Wagner, **Nina Berlin Rubin**, Laura SP Bl
 *Psychosocial factors associated with wildfire smoke and COVID-19 adaptation intentions and behaviors (Panel presentation). Political Psychology Research Group led by Professor Jon Krosnick, Stanford University, May 10. 
 
 **2020**
-*Integrating Severe weather, stress, and cardiovascular health (Oral presentation). Political Psychology Research Group led by Professor Jon Krosnick, Stanford University, April 7.
+* Integrating Severe weather, stress, and cardiovascular health (Oral presentation). Political Psychology Research Group led by Professor Jon Krosnick, Stanford University, April 7.
 
 ## Awards and Fellowships
 * Stanford University Haas Graduate Public Service Fellowship (2021)
