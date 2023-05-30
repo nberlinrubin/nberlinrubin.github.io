@@ -22,6 +22,8 @@ author_profile: true
 
 **Nina Berlin Rubin** and Gabrielle Wong-Parodi. As California burns: the psychology of wildfire- and wildfire smoke-related migration intentions. *Population and Environment*, 2022 \[[pdf](http://nberlinrubin.github.io/files/paper1.pdf)\]
 
+In this study, we sought to better understand how *perceptions of* and *experiences with* wildfire and wildfire smoke are associated with future intentions to migrate among California residents. Among those planning to migrate, we found that the perceived severity of the health impacts of wildfire smoke and prior negative outcomes (e.g., losing property to wildfire, having health harmed by wildfire smoke) were positively associated with how much residents said wildfire/smoke impacted their decision to move. 
+
 Gabrielle Wong-Parodi and **Nina Berlin Rubin**. Exploring how climate change subjective attribution, personal experience with extremes, concern, and subjective knowledge relate to pro-environmental attitudes and behavioral intentions in the United States. *Journal of Environmental Psychology*, 2022 \[[pdf](http://nberlinrubin.github.io/files/paper2.pdf)\]
 
 Francisca N Santana, Courtney Hammond Wagner, **Nina Berlin Rubin**, Laura SP Bloomfield, Erica R Bower, Stephanie L Fischer, Bianca S Santos, Gemma E Smith, Caroline T Muraida, and Gabrielle Wong-Parodi. A path forward for qualitative research on sustainability in the COVID-19 pandemic. *Sustainability Science*, 2021 \[[pdf](http://nberlinrubin.github.io/files/paper3.pdf)\]
