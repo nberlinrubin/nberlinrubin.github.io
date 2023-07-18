@@ -17,7 +17,7 @@ author_profile: yes
 -->
 
 
-
+<u>Recent publications:</u>
 
 **Nina Berlin Rubin**, Erica Rose Bower, Natalie Herbert, Bianca S Santos, and Gabrielle Wong-Parodi. Centering equity and sustainability in climate adaptation funding. *Environmental Research: Climate*, 2023 \[[pdf](https://iopscience.iop.org/article/10.1088/2752-5295/ace3e9/pdf))\]
 
