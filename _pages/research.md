@@ -17,9 +17,11 @@ author_profile: yes
 {% endfor %}
 -->
 
+**Nina Berlin Rubin**, Erica Rose Bower, Natalie Herbert, Bianca S Santos, and Gabrielle Wong-Parodi. Centering equity and sustainability in climate adaptation funding. *Environmental Research: Climate*, 2023 \[[pdf](https://iopscience.iop.org/article/10.1088/2752-5295/ace3e9/pdf))\]
 
-
-**<ins>Peer-reviewed</ins>**
+<p style="margin-left: 25px;">
+In this perspective piece, we propose four evidence-based guidelines to promote equity and sustainability in the implementation of recent climate adaptation funding agreements: uphold community autonomy, be transformative, avoid maladaptation, and integrate across sectors. 
+</p>
 
 **Nina Berlin Rubin** and Gabrielle Wong-Parodi. As California burns: the psychology of wildfire- and wildfire smoke-related migration intentions. *Population and Environment*, 2022 \[[pdf](http://nberlinrubin.github.io/files/paper1.pdf)\]
 
