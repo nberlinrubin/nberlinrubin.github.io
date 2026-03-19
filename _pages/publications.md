@@ -5,21 +5,15 @@ permalink: /research/
 author_profile: yes
 ---
 
-<!--{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
-
 <u>Recent publications:</u>
 
-**Nina Berlin Rubin**, Erica Rose Bower, Natalie Herbert, Bianca S Santos, and Gabrielle Wong-Parodi. Centering equity and sustainability in climate adaptation funding. *Environmental Research: Climate*, 2023 \[[pdf](https://iopscience.iop.org/article/10.1088/2752-5295/ace3e9/pdf))\]
+**Nina Berlin Rubin**, Dana Rose Garfin, and Gabrielle Wong-Parodi. Exploring antecedents to climate migration: sense of place, fear and worry, and experience. *Environmental Research Letters*, 2024 \[[pdf](http://nberlinrubin.github.io/files/Antecedents_2024.pdf)\]
+
+<p style="margin-left: 25px;">
+In this study, we investigate the psychosocial drivers of climate-related migration, specifically focusing on how sense of place, emotional responses like fear and worry, and direct personal experience with environmental hazards interact in their association with the decision to migrate
+</p>
+
+**Nina Berlin Rubin**, Erica Rose Bower, Natalie Herbert, Bianca S Santos, and Gabrielle Wong-Parodi. Centering equity and sustainability in climate adaptation funding. *Environmental Research: Climate*, 2023 \[[pdf](http://nberlinrubin.github.io/files/Centering_2023.pdf)\]
 
 <p style="margin-left: 25px;">
 In this perspective piece, we propose four evidence-based guidelines to promote equity and sustainability in the implementation of recent climate adaptation funding agreements: uphold community autonomy, be transformative, avoid maladaptation, and integrate across sectors. 
@@ -54,4 +48,4 @@ This study evaluates the implementation of a community-based microbial larvicidi
 <br/>
 
 
-<span style="color:grey; font-size:0.8em">The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by these copyrights. These works may not be reposted without the explicit permission of the copyright holder.</span>.
+<span style="color:grey; font-size:0.8em">The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by these copyrights. These works may not be reposted without the explicit permission of the copyright holder.</span>
