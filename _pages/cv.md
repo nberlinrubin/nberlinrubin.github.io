@@ -31,9 +31,9 @@ redirect_from:
   Washington, DC
 
 ## Peer-reviewed Publications
-**Nina Berlin Rubin**, Dana Rose Garfin, and Gabrielle Wong-Parodi. Exploring antecedents to climate migration: sense of place, fear and worry, and experience. *Environmental Research Letters*, 19(10), 104026, 2024 \[[pdf](http://nberlinrubin.github.io/files/paper_ERL_2024.pdf)\]
+**Nina Berlin Rubin**, Dana Rose Garfin, and Gabrielle Wong-Parodi. Exploring antecedents to climate migration: sense of place, fear and worry, and experience. *Environmental Research Letters*, 19(10), 104026, 2024 \[[pdf](http://nberlinrubin.github.io/files/Antecedents_2024.pdf)\]
 
-**Nina Berlin Rubin**, Erica Bower, Natalie Herbert, Bianca S Santos, and Gabrielle Wong-Parodi. Centering equity and sustainability in climate adaptation funding. *Environmental Research: Climate*, 2(3), 033001, 2023 \[[pdf](http://nberlinrubin.github.io/files/paper_ERC_2023.pdf)\]
+**Nina Berlin Rubin**, Erica Bower, Natalie Herbert, Bianca S Santos, and Gabrielle Wong-Parodi. Centering equity and sustainability in climate adaptation funding. *Environmental Research: Climate*, 2(3), 033001, 2023 \[[pdf](http://nberlinrubin.github.io/files/Centering_2023.pdf)\]
 
 **Nina Berlin Rubin** and Gabrielle Wong-Parodi. As California burns: the psychology of wildfire- and wildfire smoke-related migration intentions. *Population and Environment*, 2022 \[[pdf](http://nberlinrubin.github.io/files/paper1.pdf)\]
 
