@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nina Berlin Rubin"
 title_separator          : "-"
 name                     : &name "Nina Berlin Rubin"
-description              : &description "PhD Candidate in Earth System Science, Stanford University"
+description              : &description "Climate & Health Planning Specialist, PhD | County of Santa Clara Public Health Department"
 url                      : https://nberlinrubin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nberlinrubin/nberlinrubin.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Nina Berlin Rubin"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Earth System Science at Stanford"
+  bio              : "PhD in Earth System Science from Stanford University specializing in climate adaptation and public health."
   location         : 
   employer         :
   pubmed           : 
@@ -110,7 +110,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@_ninaberlin"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
