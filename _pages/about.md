@@ -8,6 +8,11 @@ redirect_from:
 
 ---
 
-My name is Nina - I'm a fifth-year PhD Candidate in Earth System Science at Stanford University. My research focuses on human decision-making in the face of climate extremes such as wildfires and hurricanes, with a particular interest in individual-level adaptation to these threats. Currently, I'm working on projects including examining the relationship between people's past experiences and attachment to place with their future climate-related migration behavior; determining the effectiveness of proactive climate-related migration in reducing exposure to climate hazards; and assessing indoor air quality in households within frontline communities during the wildfire season. To address these aims, I use quantitative survey methodologies and geospatial analysis.
+Nina Berlin Rubin, PhD
+Public Health Analyst | Earth System Scientist
 
-Before starting my graduate degree, I worked as a climate and energy analyst for the Environmental Protection Agency's ENERGY STAR Program at a consulting company in Washington, D.C. called ICF. I received my bachelor's degree in Environmental Sciences & Policy with a minor in Global Health from Duke University.
+Hi -- I'm Nina. I investigate how climate extremes like extreme heat and wildfires reshape human behavior and community health. Currently serving at the County of Santa Clara in the Public Health Department, I leverage geospatial analysis and statistical modeling to address complex public health challenges and support frontline communities.
+
+I earned my PhD from Stanford University in 2025, focusing my research on individual-level adaptation and the drivers of climate-related migration. By combining quantitative survey methodologies with environmental data, I work to translate interdisciplinary climate science into data-driven public health policy.
+
+Before graduate school, I worked as a climate and energy analyst for the Environmental Protection Agency's ENERGY STAR Program at ICF in Washington, DC. I received my bachelor's degree in Environmental Sciences & Policy with a minor in Global Health from Duke University.
